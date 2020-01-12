@@ -4,11 +4,11 @@
     <display-name lang="pt">RTP 1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="RTP 1 HD">
+  <channel id="RTP 1">
     <display-name lang="pt">RTP 1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="RTP 1 FULLHD">
+  <channel id="RTP 1">
     <display-name lang="pt">RTP 1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
