@@ -5,11 +5,11 @@
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="RTP 1 HD">
-    <display-name lang="pt">RTP 1</display-name>
+    <display-name lang="pt">RTP 1 HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="RTP 1 FULLHD">
-    <display-name lang="pt">RTP 1</display-name>
+    <display-name lang="pt">RTP 1 FULLHD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="RTP 2">
