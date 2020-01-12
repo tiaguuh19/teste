@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">RTP 2</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+</tv>
