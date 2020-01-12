@@ -4,12 +4,12 @@
     <display-name lang="pt">RTP 1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-    <channel id="RTP 1 HD">
-    <display-name lang="pt">RTP 1</display-name>
+  <channel id="RTP 1 HD">
+    <display-name lang="pt">RTP 1 HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-    <channel id="RTP 1 FULLHD">
-    <display-name lang="pt">RTP 1 HD</display-name>
+  <channel id="RTP 1 FULLHD">
+    <display-name lang="pt">RTP 1 FULLHD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="RTP 2">
@@ -588,6 +588,1140 @@
     <episode-num system="xmltv_ns">S1E14</episode-num>
   </programme>
   <programme start="20200118234500 +0000" stop="20200119013000 +0000" channel="RTP 1">
+    <title lang="pt">12 Indomáveis</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200112013700 +0000" stop="20200112022400 +0000" channel="RTP 1 HD">
+    <title lang="pt">Babylon Berlin</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E13</episode-num>
+  </programme>
+  <programme start="20200112022400 +0000" stop="20200112031100 +0000" channel="RTP 1 HD">
+    <title lang="pt">Babylon Berlin</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E14</episode-num>
+  </programme>
+  <programme start="20200112031100 +0000" stop="20200112061200 +0000" channel="RTP 1 HD">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200112061200 +0000" stop="20200112063100 +0000" channel="RTP 1 HD">
+    <title lang="pt">Todas as Palavras</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E52</episode-num>
+  </programme>
+  <programme start="20200112063100 +0000" stop="20200112063700 +0000" channel="RTP 1 HD">
+    <title lang="pt">Ema e Gui</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E15</episode-num>
+  </programme>
+  <programme start="20200112063700 +0000" stop="20200112065000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Lulu Cambalhota</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E4</episode-num>
+  </programme>
+  <programme start="20200112065000 +0000" stop="20200112065700 +0000" channel="RTP 1 HD">
+    <title lang="pt">No País dos Ozie Boo!</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E27</episode-num>
+  </programme>
+  <programme start="20200112065700 +0000" stop="20200112071200 +0000" channel="RTP 1 HD">
+    <title lang="pt">Zig Zag</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S21E105</episode-num>
+  </programme>
+  <programme start="20200112071200 +0000" stop="20200112072500 +0000" channel="RTP 1 HD">
+    <title lang="pt">As Aventuras do Max: Atlantos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200112072500 +0000" stop="20200112074000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Sim, Eu Consigo</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E15</episode-num>
+  </programme>
+  <programme start="20200112074000 +0000" stop="20200112080000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Radar XS</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200112080000 +0000" stop="20200112103000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200112103000 +0000" stop="20200112113600 +0000" channel="RTP 1 HD">
+    <title lang="pt">Eucaristia Dominical</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200112113600 +0000" stop="20200112123300 +0000" channel="RTP 1 HD">
+    <title lang="pt">As Receitas Lá de Casa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E194</episode-num>
+  </programme>
+  <programme start="20200112123300 +0000" stop="20200112130000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Estrada Nacional</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E11</episode-num>
+  </programme>
+  <programme start="20200112130000 +0000" stop="20200112141900 +0000" channel="RTP 1 HD">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200112141900 +0000" stop="20200112150000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Faz Faísca</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20200112150000 +0000" stop="20200112190800 +0000" channel="RTP 1 HD">
+    <title lang="pt">Domingo à Tarde</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200112190800 +0000" stop="20200112195900 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200112195900 +0000" stop="20200112210900 +0000" channel="RTP 1 HD">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200112210900 +0000" stop="20200113003000 +0000" channel="RTP 1 HD">
+    <title lang="pt">The Voice Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E15</episode-num>
+  </programme>
+  <programme start="20200113003000 +0000" stop="20200113022700 +0000" channel="RTP 1 HD">
+    <title lang="pt">Reviver o Passado em Montauk</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200113022700 +0000" stop="20200113030800 +0000" channel="RTP 1 HD">
+    <title lang="pt">Faz Faísca</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20200113030800 +0000" stop="20200113035800 +0000" channel="RTP 1 HD">
+    <title lang="pt">Itália Selvagem - Os Maiores Predadores</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20200113035800 +0000" stop="20200113061400 +0000" channel="RTP 1 HD">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200113061400 +0000" stop="20200113063000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200113063000 +0000" stop="20200113100000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200113100000 +0000" stop="20200113130000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Praça da Alegria</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200113130000 +0000" stop="20200113141000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200113141000 +0000" stop="20200113150200 +0000" channel="RTP 1 HD">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E235</episode-num>
+  </programme>
+  <programme start="20200113150200 +0000" stop="20200113173000 +0000" channel="RTP 1 HD">
+    <title lang="pt">A Nossa Tarde</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200113173000 +0000" stop="20200113190800 +0000" channel="RTP 1 HD">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200113190800 +0000" stop="20200113195900 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200113195900 +0000" stop="20200113210000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200113210000 +0000" stop="20200113215700 +0000" channel="RTP 1 HD">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E31</episode-num>
+  </programme>
+  <programme start="20200113215700 +0000" stop="20200113235100 +0000" channel="RTP 1 HD">
+    <title lang="pt">Prós e Contras</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S18E1</episode-num>
+  </programme>
+  <programme start="20200113235100 +0000" stop="20200114015700 +0000" channel="RTP 1 HD">
+    <title lang="pt">Terra</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200114015700 +0000" stop="20200114024700 +0000" channel="RTP 1 HD">
+    <title lang="pt">19-2</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E8</episode-num>
+  </programme>
+  <programme start="20200114024700 +0000" stop="20200114033000 +0000" channel="RTP 1 HD">
+    <title lang="pt">19-2</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E9</episode-num>
+  </programme>
+  <programme start="20200114033000 +0000" stop="20200114041100 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Sábio</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E42</episode-num>
+  </programme>
+  <programme start="20200114041100 +0000" stop="20200114055900 +0000" channel="RTP 1 HD">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200114055900 +0000" stop="20200114063000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200114063000 +0000" stop="20200114100000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200114100000 +0000" stop="20200114130000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Praça da Alegria</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200114130000 +0000" stop="20200114141000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200114141000 +0000" stop="20200114150200 +0000" channel="RTP 1 HD">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E236</episode-num>
+  </programme>
+  <programme start="20200114150200 +0000" stop="20200114173000 +0000" channel="RTP 1 HD">
+    <title lang="pt">A Nossa Tarde</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200114173000 +0000" stop="20200114175700 +0000" channel="RTP 1 HD">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200114175700 +0000" stop="20200114195900 +0000" channel="RTP 1 HD">
+    <title lang="pt">Taça de Portugal -FC Porto x Varzim SC</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200114195900 +0000" stop="20200114211200 +0000" channel="RTP 1 HD">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200114211200 +0000" stop="20200114232200 +0000" channel="RTP 1 HD">
+    <title lang="pt">Taça de Portugal -Benfica x Rio Ave</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200114232200 +0000" stop="20200115000600 +0000" channel="RTP 1 HD">
+    <title lang="pt">José Cid em Las Vegas: Um Grammy Português</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200115000600 +0000" stop="20200115013000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Prova Oral</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E20</episode-num>
+  </programme>
+  <programme start="20200115013000 +0000" stop="20200115033000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Beleza Americana</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200115033000 +0000" stop="20200115034700 +0000" channel="RTP 1 HD">
+    <title lang="pt">Europa Minha</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S3E2</episode-num>
+  </programme>
+  <programme start="20200115034700 +0000" stop="20200115042800 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Sábio</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E43</episode-num>
+  </programme>
+  <programme start="20200115042800 +0000" stop="20200115055900 +0000" channel="RTP 1 HD">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200115055900 +0000" stop="20200115063000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200115063000 +0000" stop="20200115100000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200115100000 +0000" stop="20200115130000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Praça da Alegria</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200115130000 +0000" stop="20200115141500 +0000" channel="RTP 1 HD">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200115141500 +0000" stop="20200115150000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E237</episode-num>
+  </programme>
+  <programme start="20200115150000 +0000" stop="20200115173000 +0000" channel="RTP 1 HD">
+    <title lang="pt">A Nossa Tarde</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200115173000 +0000" stop="20200115190000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200115190000 +0000" stop="20200115195900 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200115195900 +0000" stop="20200115210000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200115210000 +0000" stop="20200115213000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Mesa Portuguesa... com Estrelas Com Certeza!</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20200115213000 +0000" stop="20200115223000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E32</episode-num>
+  </programme>
+  <programme start="20200115223000 +0000" stop="20200116000000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Cá por Casa com Herman José</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S5E17</episode-num>
+  </programme>
+  <programme start="20200116000000 +0000" stop="20200116004500 +0000" channel="RTP 1 HD">
+    <title lang="pt">Desliga a Televisão</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20200116004500 +0000" stop="20200116013000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Anatomia de Grey</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S15E16</episode-num>
+  </programme>
+  <programme start="20200116013000 +0000" stop="20200116023000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Janela Indiscreta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S12E3</episode-num>
+  </programme>
+  <programme start="20200116023000 +0000" stop="20200116033000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Grande Entrevista</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S13E2</episode-num>
+  </programme>
+  <programme start="20200116033000 +0000" stop="20200116041500 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Sábio</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E44</episode-num>
+  </programme>
+  <programme start="20200116041500 +0000" stop="20200116055900 +0000" channel="RTP 1 HD">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200116055900 +0000" stop="20200116063000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200116063000 +0000" stop="20200116100000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200116100000 +0000" stop="20200116130000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Praça da Alegria</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200116130000 +0000" stop="20200116141500 +0000" channel="RTP 1 HD">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200116141500 +0000" stop="20200116150000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E238</episode-num>
+  </programme>
+  <programme start="20200116150000 +0000" stop="20200116173000 +0000" channel="RTP 1 HD">
+    <title lang="pt">A Nossa Tarde</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200116173000 +0000" stop="20200116184500 +0000" channel="RTP 1 HD">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200116184500 +0000" stop="20200116190000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Fatura Da Sorte</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200116190000 +0000" stop="20200116195900 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200116195900 +0000" stop="20200116210000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200116210000 +0000" stop="20200116213000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Linha da Frente</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S22E2</episode-num>
+  </programme>
+  <programme start="20200116213000 +0000" stop="20200116223000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E33</episode-num>
+  </programme>
+  <programme start="20200116223000 +0000" stop="20200117003000 +0000" channel="RTP 1 HD">
+    <title lang="pt">5 Para a Meia-Noite</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S16E2</episode-num>
+  </programme>
+  <programme start="20200117003000 +0000" stop="20200117011500 +0000" channel="RTP 1 HD">
+    <title lang="pt">Corvo Arrivista - Um Corvo de Natal</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20200117011500 +0000" stop="20200117020000 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Corvo Arrivista</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E1</episode-num>
+  </programme>
+  <programme start="20200117020000 +0000" stop="20200117024500 +0000" channel="RTP 1 HD">
+    <title lang="pt">Faz Faísca</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20200117024500 +0000" stop="20200117033000 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Sábio</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E45</episode-num>
+  </programme>
+  <programme start="20200117033000 +0000" stop="20200117060000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200117060000 +0000" stop="20200117063000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200117063000 +0000" stop="20200117100000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200117100000 +0000" stop="20200117130000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Praça da Alegria</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200117130000 +0000" stop="20200117141500 +0000" channel="RTP 1 HD">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200117141500 +0000" stop="20200117150000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E239</episode-num>
+  </programme>
+  <programme start="20200117150000 +0000" stop="20200117173000 +0000" channel="RTP 1 HD">
+    <title lang="pt">A Nossa Tarde</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200117173000 +0000" stop="20200117190000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200117190000 +0000" stop="20200117195900 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200117195900 +0000" stop="20200117210000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200117210000 +0000" stop="20200117213000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Sexta às 9</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S9E1</episode-num>
+  </programme>
+  <programme start="20200117213000 +0000" stop="20200117223000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E34</episode-num>
+  </programme>
+  <programme start="20200117223000 +0000" stop="20200117233000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Auga Seca</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200117233000 +0000" stop="20200118010000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Depois, Vai-se a Ver e Nada</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E28</episode-num>
+  </programme>
+  <programme start="20200118010000 +0000" stop="20200118030000 +0000" channel="RTP 1 HD">
+    <title lang="pt">A Senhora da Furgoneta</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200118030000 +0000" stop="20200118034500 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Sábio</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E46</episode-num>
+  </programme>
+  <programme start="20200118034500 +0000" stop="20200118060000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200118060000 +0000" stop="20200118063100 +0000" channel="RTP 1 HD">
+    <title lang="pt">Estrada Nacional</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200118063100 +0000" stop="20200118064500 +0000" channel="RTP 1 HD">
+    <title lang="pt">Lulu Cambalhota</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E5</episode-num>
+  </programme>
+  <programme start="20200118064500 +0000" stop="20200118070000 +0000" channel="RTP 1 HD">
+    <title lang="pt">No País dos Ozie Boo!</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E28</episode-num>
+  </programme>
+  <programme start="20200118070000 +0000" stop="20200118071500 +0000" channel="RTP 1 HD">
+    <title lang="pt">Zig Zag</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S21E106</episode-num>
+  </programme>
+  <programme start="20200118071500 +0000" stop="20200118073000 +0000" channel="RTP 1 HD">
+    <title lang="pt">As Aventuras do Max: Atlantos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20200118073000 +0000" stop="20200118074500 +0000" channel="RTP 1 HD">
+    <title lang="pt">Sim, Eu Consigo</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E16</episode-num>
+  </programme>
+  <programme start="20200118074500 +0000" stop="20200118080000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Movimento Gentil - Desafio Escolas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E15</episode-num>
+  </programme>
+  <programme start="20200118080000 +0000" stop="20200118100000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200118100000 +0000" stop="20200118110000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Itália Selvagem - Os Maiores Predadores</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200118110000 +0000" stop="20200118130000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Aqui Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200118130000 +0000" stop="20200118141500 +0000" channel="RTP 1 HD">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200118141500 +0000" stop="20200118143000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Voz do Cidadão</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200118143000 +0000" stop="20200118195900 +0000" channel="RTP 1 HD">
+    <title lang="pt">Aqui Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200118195900 +0000" stop="20200118210000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200118210000 +0000" stop="20200118220000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Conta-me Como Foi</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S6E7</episode-num>
+  </programme>
+  <programme start="20200118220000 +0000" stop="20200118234500 +0000" channel="RTP 1 HD">
+    <title lang="pt">Jogo de Todos os Jogos</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E14</episode-num>
+  </programme>
+  <programme start="20200118234500 +0000" stop="20200119013000 +0000" channel="RTP 1 HD">
+    <title lang="pt">12 Indomáveis</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200112013700 +0000" stop="20200112022400 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Babylon Berlin</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E13</episode-num>
+  </programme>
+  <programme start="20200112022400 +0000" stop="20200112031100 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Babylon Berlin</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E14</episode-num>
+  </programme>
+  <programme start="20200112031100 +0000" stop="20200112061200 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200112061200 +0000" stop="20200112063100 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Todas as Palavras</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E52</episode-num>
+  </programme>
+  <programme start="20200112063100 +0000" stop="20200112063700 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Ema e Gui</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E15</episode-num>
+  </programme>
+  <programme start="20200112063700 +0000" stop="20200112065000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Lulu Cambalhota</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E4</episode-num>
+  </programme>
+  <programme start="20200112065000 +0000" stop="20200112065700 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">No País dos Ozie Boo!</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E27</episode-num>
+  </programme>
+  <programme start="20200112065700 +0000" stop="20200112071200 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Zig Zag</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S21E105</episode-num>
+  </programme>
+  <programme start="20200112071200 +0000" stop="20200112072500 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">As Aventuras do Max: Atlantos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200112072500 +0000" stop="20200112074000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Sim, Eu Consigo</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E15</episode-num>
+  </programme>
+  <programme start="20200112074000 +0000" stop="20200112080000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Radar XS</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200112080000 +0000" stop="20200112103000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200112103000 +0000" stop="20200112113600 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Eucaristia Dominical</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200112113600 +0000" stop="20200112123300 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">As Receitas Lá de Casa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E194</episode-num>
+  </programme>
+  <programme start="20200112123300 +0000" stop="20200112130000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Estrada Nacional</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E11</episode-num>
+  </programme>
+  <programme start="20200112130000 +0000" stop="20200112141900 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200112141900 +0000" stop="20200112150000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Faz Faísca</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20200112150000 +0000" stop="20200112190800 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Domingo à Tarde</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200112190800 +0000" stop="20200112195900 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200112195900 +0000" stop="20200112210900 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200112210900 +0000" stop="20200113003000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">The Voice Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E15</episode-num>
+  </programme>
+  <programme start="20200113003000 +0000" stop="20200113022700 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Reviver o Passado em Montauk</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200113022700 +0000" stop="20200113030800 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Faz Faísca</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20200113030800 +0000" stop="20200113035800 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Itália Selvagem - Os Maiores Predadores</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20200113035800 +0000" stop="20200113061400 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200113061400 +0000" stop="20200113063000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200113063000 +0000" stop="20200113100000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200113100000 +0000" stop="20200113130000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Praça da Alegria</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200113130000 +0000" stop="20200113141000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200113141000 +0000" stop="20200113150200 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E235</episode-num>
+  </programme>
+  <programme start="20200113150200 +0000" stop="20200113173000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">A Nossa Tarde</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200113173000 +0000" stop="20200113190800 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200113190800 +0000" stop="20200113195900 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200113195900 +0000" stop="20200113210000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200113210000 +0000" stop="20200113215700 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E31</episode-num>
+  </programme>
+  <programme start="20200113215700 +0000" stop="20200113235100 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Prós e Contras</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S18E1</episode-num>
+  </programme>
+  <programme start="20200113235100 +0000" stop="20200114015700 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Terra</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200114015700 +0000" stop="20200114024700 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">19-2</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E8</episode-num>
+  </programme>
+  <programme start="20200114024700 +0000" stop="20200114033000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">19-2</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E9</episode-num>
+  </programme>
+  <programme start="20200114033000 +0000" stop="20200114041100 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">O Sábio</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E42</episode-num>
+  </programme>
+  <programme start="20200114041100 +0000" stop="20200114055900 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200114055900 +0000" stop="20200114063000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200114063000 +0000" stop="20200114100000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200114100000 +0000" stop="20200114130000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Praça da Alegria</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200114130000 +0000" stop="20200114141000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200114141000 +0000" stop="20200114150200 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E236</episode-num>
+  </programme>
+  <programme start="20200114150200 +0000" stop="20200114173000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">A Nossa Tarde</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200114173000 +0000" stop="20200114175700 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200114175700 +0000" stop="20200114195900 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Taça de Portugal -FC Porto x Varzim SC</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200114195900 +0000" stop="20200114211200 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200114211200 +0000" stop="20200114232200 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Taça de Portugal -Benfica x Rio Ave</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20200114232200 +0000" stop="20200115000600 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">José Cid em Las Vegas: Um Grammy Português</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20200115000600 +0000" stop="20200115013000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Prova Oral</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E20</episode-num>
+  </programme>
+  <programme start="20200115013000 +0000" stop="20200115033000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Beleza Americana</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200115033000 +0000" stop="20200115034700 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Europa Minha</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S3E2</episode-num>
+  </programme>
+  <programme start="20200115034700 +0000" stop="20200115042800 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">O Sábio</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E43</episode-num>
+  </programme>
+  <programme start="20200115042800 +0000" stop="20200115055900 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200115055900 +0000" stop="20200115063000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200115063000 +0000" stop="20200115100000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200115100000 +0000" stop="20200115130000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Praça da Alegria</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200115130000 +0000" stop="20200115141500 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200115141500 +0000" stop="20200115150000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E237</episode-num>
+  </programme>
+  <programme start="20200115150000 +0000" stop="20200115173000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">A Nossa Tarde</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200115173000 +0000" stop="20200115190000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200115190000 +0000" stop="20200115195900 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200115195900 +0000" stop="20200115210000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200115210000 +0000" stop="20200115213000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Mesa Portuguesa... com Estrelas Com Certeza!</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20200115213000 +0000" stop="20200115223000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E32</episode-num>
+  </programme>
+  <programme start="20200115223000 +0000" stop="20200116000000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Cá por Casa com Herman José</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S5E17</episode-num>
+  </programme>
+  <programme start="20200116000000 +0000" stop="20200116004500 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Desliga a Televisão</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20200116004500 +0000" stop="20200116013000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Anatomia de Grey</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S15E16</episode-num>
+  </programme>
+  <programme start="20200116013000 +0000" stop="20200116023000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Janela Indiscreta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S12E3</episode-num>
+  </programme>
+  <programme start="20200116023000 +0000" stop="20200116033000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Grande Entrevista</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S13E2</episode-num>
+  </programme>
+  <programme start="20200116033000 +0000" stop="20200116041500 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">O Sábio</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E44</episode-num>
+  </programme>
+  <programme start="20200116041500 +0000" stop="20200116055900 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200116055900 +0000" stop="20200116063000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200116063000 +0000" stop="20200116100000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200116100000 +0000" stop="20200116130000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Praça da Alegria</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200116130000 +0000" stop="20200116141500 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200116141500 +0000" stop="20200116150000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E238</episode-num>
+  </programme>
+  <programme start="20200116150000 +0000" stop="20200116173000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">A Nossa Tarde</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200116173000 +0000" stop="20200116184500 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200116184500 +0000" stop="20200116190000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Fatura Da Sorte</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200116190000 +0000" stop="20200116195900 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200116195900 +0000" stop="20200116210000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200116210000 +0000" stop="20200116213000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Linha da Frente</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S22E2</episode-num>
+  </programme>
+  <programme start="20200116213000 +0000" stop="20200116223000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E33</episode-num>
+  </programme>
+  <programme start="20200116223000 +0000" stop="20200117003000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">5 Para a Meia-Noite</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S16E2</episode-num>
+  </programme>
+  <programme start="20200117003000 +0000" stop="20200117011500 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Corvo Arrivista - Um Corvo de Natal</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20200117011500 +0000" stop="20200117020000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">O Corvo Arrivista</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E1</episode-num>
+  </programme>
+  <programme start="20200117020000 +0000" stop="20200117024500 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Faz Faísca</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20200117024500 +0000" stop="20200117033000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">O Sábio</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E45</episode-num>
+  </programme>
+  <programme start="20200117033000 +0000" stop="20200117060000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200117060000 +0000" stop="20200117063000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Manchetes 3</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200117063000 +0000" stop="20200117100000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200117100000 +0000" stop="20200117130000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Praça da Alegria</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200117130000 +0000" stop="20200117141500 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200117141500 +0000" stop="20200117150000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Bem-Vindos a Beirais</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E239</episode-num>
+  </programme>
+  <programme start="20200117150000 +0000" stop="20200117173000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">A Nossa Tarde</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200117173000 +0000" stop="20200117190000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Portugal em Direto</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200117190000 +0000" stop="20200117195900 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">O Preço Certo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200117195900 +0000" stop="20200117210000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200117210000 +0000" stop="20200117213000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Sexta às 9</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S9E1</episode-num>
+  </programme>
+  <programme start="20200117213000 +0000" stop="20200117223000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Joker</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E34</episode-num>
+  </programme>
+  <programme start="20200117223000 +0000" stop="20200117233000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Auga Seca</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20200117233000 +0000" stop="20200118010000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Depois, Vai-se a Ver e Nada</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E28</episode-num>
+  </programme>
+  <programme start="20200118010000 +0000" stop="20200118030000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">A Senhora da Furgoneta</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20200118030000 +0000" stop="20200118034500 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">O Sábio</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E46</episode-num>
+  </programme>
+  <programme start="20200118034500 +0000" stop="20200118060000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20200118060000 +0000" stop="20200118063100 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Estrada Nacional</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20200118063100 +0000" stop="20200118064500 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Lulu Cambalhota</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E5</episode-num>
+  </programme>
+  <programme start="20200118064500 +0000" stop="20200118070000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">No País dos Ozie Boo!</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E28</episode-num>
+  </programme>
+  <programme start="20200118070000 +0000" stop="20200118071500 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Zig Zag</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S21E106</episode-num>
+  </programme>
+  <programme start="20200118071500 +0000" stop="20200118073000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">As Aventuras do Max: Atlantos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20200118073000 +0000" stop="20200118074500 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Sim, Eu Consigo</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E16</episode-num>
+  </programme>
+  <programme start="20200118074500 +0000" stop="20200118080000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Movimento Gentil - Desafio Escolas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E15</episode-num>
+  </programme>
+  <programme start="20200118080000 +0000" stop="20200118100000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200118100000 +0000" stop="20200118110000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Itália Selvagem - Os Maiores Predadores</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20200118110000 +0000" stop="20200118130000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Aqui Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200118130000 +0000" stop="20200118141500 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200118141500 +0000" stop="20200118143000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Voz do Cidadão</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200118143000 +0000" stop="20200118195900 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Aqui Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20200118195900 +0000" stop="20200118210000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20200118210000 +0000" stop="20200118220000 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Conta-me Como Foi</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S6E7</episode-num>
+  </programme>
+  <programme start="20200118220000 +0000" stop="20200118234500 +0000" channel="RTP 1 FULLHD">
+    <title lang="pt">Jogo de Todos os Jogos</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E14</episode-num>
+  </programme>
+  <programme start="20200118234500 +0000" stop="20200119013000 +0000" channel="RTP 1 FULLHD">
     <title lang="pt">12 Indomáveis</title>
     <category lang="pt">entretenimento</category>
   </programme>
