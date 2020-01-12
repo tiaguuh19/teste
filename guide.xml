@@ -1,0 +1,2364 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP1">
+    <display-name lang="en">RTP1</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTP1 HD">
+    <display-name lang="en">RTP1</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTP1 FULLHD">
+    <display-name lang="en">RTP1</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <programme start="20200112063000 +0000" stop="20200112063100 +0000" channel="RTP1">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112063100 +0000" stop="20200112063700 +0000" channel="RTP1">
+    <title lang="en">Ema e Gui</title>
+    <desc lang="en">Ema é uma miúda sonhadora que não larga um estranho par de botas mágicas que utiliza para ir ajudar o seu amigo imaginário Gui(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112063700 +0000" stop="20200112065000 +0000" channel="RTP1">
+    <title lang="en">Lulu Cambalhota</title>
+    <desc lang="en">Para a LuLu e os seus amigos, as melhores cambalhotas são as que fazem na Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112065000 +0000" stop="20200112065700 +0000" channel="RTP1">
+    <title lang="en">No País dos Ozie Boo!</title>
+    <desc lang="en">Na escola Ozie Boo os nossos amigos pinguins aprendem como todas as crianças, mas a escola deles é a Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112065700 +0000" stop="20200112071200 +0000" channel="RTP1">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó são grandes amigos e vão viver muitas situações engraçadas!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112071200 +0000" stop="20200112072500 +0000" channel="RTP1">
+    <title lang="en">As Aventuras do Max - Atlantos</title>
+    <desc lang="en">Não percas as aventuras de Max, o leão mais corajoso do Universo!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112072500 +0000" stop="20200112074000 +0000" channel="RTP1">
+    <title lang="en">Sim, Eu Consigo</title>
+    <desc lang="en">Crianças de diversos países narram a sua vida e dizem quais são os seus sonhos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112074000 +0000" stop="20200112080000 +0000" channel="RTP1">
+    <title lang="en">Radar XS</title>
+    <desc lang="en">Toda a informação do mundo graúdo trocada por miúdos!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112080000 +0000" stop="20200112195900 +0000" channel="RTP1">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112195900 +0000" stop="20200112210900 +0000" channel="RTP1">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112210900 +0000" stop="20200113003000 +0000" channel="RTP1">
+    <title lang="en">The Voice Portugal</title>
+    <desc lang="en">Final(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113003000 +0000" stop="20200113022700 +0000" channel="RTP1">
+    <title lang="en">Reviver o Passado em Montauk</title>
+    <desc lang="en">Poderão Max e Rebecca retomar o passado?(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113022700 +0000" stop="20200113035800 +0000" channel="RTP1">
+    <title lang="en">Faz Faísca</title>
+    <desc lang="en">Acompanhe os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e as redes sociais(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113035800 +0000" stop="20200113061400 +0000" channel="RTP1">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113061400 +0000" stop="20200113063000 +0000" channel="RTP1">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113063000 +0000" stop="20200113100000 +0000" channel="RTP1">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113100000 +0000" stop="20200113130000 +0000" channel="RTP1">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113130000 +0000" stop="20200113141000 +0000" channel="RTP1">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113141000 +0000" stop="20200113150200 +0000" channel="RTP1">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113150200 +0000" stop="20200113173000 +0000" channel="RTP1">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113173000 +0000" stop="20200113190800 +0000" channel="RTP1">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113190800 +0000" stop="20200113195900 +0000" channel="RTP1">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113195900 +0000" stop="20200113210000 +0000" channel="RTP1">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113210000 +0000" stop="20200113215700 +0000" channel="RTP1">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113215700 +0000" stop="20200113235100 +0000" channel="RTP1">
+    <title lang="en">Prós e Contras</title>
+    <desc lang="en">Tempos Incertos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113235100 +0000" stop="20200114015700 +0000" channel="RTP1">
+    <title lang="en">Terra</title>
+    <desc lang="en">O Homem e a transformação do planeta(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114015700 +0000" stop="20200114024700 +0000" channel="RTP1">
+    <title lang="en">19-2</title>
+    <desc lang="en">Emocionante drama policial canadiano centrado na vida de dois polícias, parceiros involuntários no Departamento de Polícia de Montreal(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114024700 +0000" stop="20200114033000 +0000" channel="RTP1">
+    <title lang="en">19-2</title>
+    <desc lang="en">Emocionante drama policial canadiano centrado na vida de dois polícias, parceiros involuntários no Departamento de Polícia de Montreal(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114033000 +0000" stop="20200114041100 +0000" channel="RTP1">
+    <title lang="en">O Sábio</title>
+    <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114041100 +0000" stop="20200114055900 +0000" channel="RTP1">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114055900 +0000" stop="20200114063000 +0000" channel="RTP1">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114063000 +0000" stop="20200114100000 +0000" channel="RTP1">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114100000 +0000" stop="20200114130000 +0000" channel="RTP1">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114130000 +0000" stop="20200114141000 +0000" channel="RTP1">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114141000 +0000" stop="20200114150200 +0000" channel="RTP1">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114150200 +0000" stop="20200114173000 +0000" channel="RTP1">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114173000 +0000" stop="20200114175700 +0000" channel="RTP1">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114175700 +0000" stop="20200114195900 +0000" channel="RTP1">
+    <title lang="en">Futebol: Taça de Portugal FC Porto x Varzim SC</title>
+    <desc lang="en">A Prova Rainha na sua RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114195900 +0000" stop="20200114211200 +0000" channel="RTP1">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114211200 +0000" stop="20200114232200 +0000" channel="RTP1">
+    <title lang="en">Futebol: Taça de Portugal Benfica x Rio Ave</title>
+    <desc lang="en">A Prova Rainha na sua RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114232200 +0000" stop="20200115000600 +0000" channel="RTP1">
+    <title lang="en">José Cid em Las Vegas - Um Grammy Português</title>
+    <desc lang="en">O cantor foi agraciado pelo seu contributo para a música latina(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115000600 +0000" stop="20200115013000 +0000" channel="RTP1">
+    <title lang="en">Prova Oral</title>
+    <desc lang="en">Da Rádio para a Televisão!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115013000 +0000" stop="20200115033000 +0000" channel="RTP1">
+    <title lang="en">Beleza Americana</title>
+    <desc lang="en">O que se vê nem sempre corresponde à realidade(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115033000 +0000" stop="20200115034700 +0000" channel="RTP1">
+    <title lang="en">Europa Minha</title>
+    <desc lang="en">Pequeno formato que visa formar os cidadãos sobre os grandes desafios da se colocam à União Europeia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115034700 +0000" stop="20200115042800 +0000" channel="RTP1">
+    <title lang="en">O Sábio</title>
+    <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115042800 +0000" stop="20200115055900 +0000" channel="RTP1">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115055900 +0000" stop="20200115063000 +0000" channel="RTP1">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115063000 +0000" stop="20200115100000 +0000" channel="RTP1">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115100000 +0000" stop="20200115130000 +0000" channel="RTP1">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115130000 +0000" stop="20200115141500 +0000" channel="RTP1">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115141500 +0000" stop="20200115150000 +0000" channel="RTP1">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115150000 +0000" stop="20200115173000 +0000" channel="RTP1">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115173000 +0000" stop="20200115190000 +0000" channel="RTP1">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115190000 +0000" stop="20200115195900 +0000" channel="RTP1">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115195900 +0000" stop="20200115210000 +0000" channel="RTP1">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115210000 +0000" stop="20200115213000 +0000" channel="RTP1">
+    <title lang="en">Mesa Portuguesa... com Estrelas Com Certeza!</title>
+    <desc lang="en">Vista - João Oliveira - Portimão(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115213000 +0000" stop="20200115223000 +0000" channel="RTP1">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115223000 +0000" stop="20200116000000 +0000" channel="RTP1">
+    <title lang="en">Cá Por Casa com Herman José</title>
+    <desc lang="en">Talk Show com autoria e apresentação de Herman José(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116000000 +0000" stop="20200116004500 +0000" channel="RTP1">
+    <title lang="en">Desliga a Televisão</title>
+    <desc lang="en">Faça zapping ao humor(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116004500 +0000" stop="20200116013000 +0000" channel="RTP1">
+    <title lang="en">Anatomia de Grey</title>
+    <desc lang="en">O drama médico mais famoso da televisão que centra a sua história nas vidas profissionais e pessoais de um grupo de médicos-cirurgiões(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116013000 +0000" stop="20200116023000 +0000" channel="RTP1">
+    <title lang="en">Janela Indiscreta</title>
+    <desc lang="en">Janela Indiscreta com Mário Augusto!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116023000 +0000" stop="20200116033000 +0000" channel="RTP1">
+    <title lang="en">Grande Entrevista</title>
+    <desc lang="en">Um protagonista da vida portuguesa responde às perguntas de Vítor Gonçalves(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116033000 +0000" stop="20200116041500 +0000" channel="RTP1">
+    <title lang="en">O Sábio</title>
+    <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116041500 +0000" stop="20200116055900 +0000" channel="RTP1">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116055900 +0000" stop="20200116063000 +0000" channel="RTP1">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116063000 +0000" stop="20200116100000 +0000" channel="RTP1">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116100000 +0000" stop="20200116130000 +0000" channel="RTP1">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116130000 +0000" stop="20200116141500 +0000" channel="RTP1">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116141500 +0000" stop="20200116150000 +0000" channel="RTP1">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116150000 +0000" stop="20200116173000 +0000" channel="RTP1">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116173000 +0000" stop="20200116184500 +0000" channel="RTP1">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116184500 +0000" stop="20200116190000 +0000" channel="RTP1">
+    <title lang="en">Fatura da Sorte</title>
+    <desc lang="en">O concurso que premeia os portugueses que pedem faturas com número de contribuinte(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116190000 +0000" stop="20200116195900 +0000" channel="RTP1">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116195900 +0000" stop="20200116210000 +0000" channel="RTP1">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116210000 +0000" stop="20200116213000 +0000" channel="RTP1">
+    <title lang="en">Linha da Frente</title>
+    <desc lang="en">A grande reportagem que retrata todas as realidades!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116213000 +0000" stop="20200116223000 +0000" channel="RTP1">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116223000 +0000" stop="20200117003000 +0000" channel="RTP1">
+    <title lang="en">5 Para a Meia-Noite</title>
+    <desc lang="en">Filomena Cautela recebe os convidados que marcam a semana(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117003000 +0000" stop="20200117011500 +0000" channel="RTP1">
+    <title lang="en">Corvo Arrivista - Um Corvo de Natal</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117011500 +0000" stop="20200117020000 +0000" channel="RTP1">
+    <title lang="en">O Corvo Arrivista</title>
+    <desc lang="en">Comédia que acompanha a vida de William Shakespeare antes da fama(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117020000 +0000" stop="20200117024500 +0000" channel="RTP1">
+    <title lang="en">Faz Faísca</title>
+    <desc lang="en">Acompanhe os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e as redes sociais(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117024500 +0000" stop="20200117033000 +0000" channel="RTP1">
+    <title lang="en">O Sábio</title>
+    <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117033000 +0000" stop="20200117060000 +0000" channel="RTP1">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117060000 +0000" stop="20200117063000 +0000" channel="RTP1">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117063000 +0000" stop="20200117100000 +0000" channel="RTP1">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117100000 +0000" stop="20200117130000 +0000" channel="RTP1">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117130000 +0000" stop="20200117141500 +0000" channel="RTP1">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117141500 +0000" stop="20200117150000 +0000" channel="RTP1">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117150000 +0000" stop="20200117173000 +0000" channel="RTP1">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117173000 +0000" stop="20200117190000 +0000" channel="RTP1">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117190000 +0000" stop="20200117195900 +0000" channel="RTP1">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117195900 +0000" stop="20200117210000 +0000" channel="RTP1">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117210000 +0000" stop="20200117213000 +0000" channel="RTP1">
+    <title lang="en">Sexta às 9</title>
+    <desc lang="en">Jornalismo de investigação com a devida isenção!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117213000 +0000" stop="20200117223000 +0000" channel="RTP1">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117223000 +0000" stop="20200117233000 +0000" channel="RTP1">
+    <title lang="en">Auga Seca</title>
+    <desc lang="en">Nada é o que parece(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117233000 +0000" stop="20200118010000 +0000" channel="RTP1">
+    <title lang="en">Depois, Vai-se a Ver e Nada</title>
+    <desc lang="en">Qualquer assunto que incendeie o mundo hoje, amanhã, vai-se a ver e nada!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118010000 +0000" stop="20200118030000 +0000" channel="RTP1">
+    <title lang="en">A Senhora da Furgoneta</title>
+    <desc lang="en">Há pessoas que nos marcam(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118030000 +0000" stop="20200118034500 +0000" channel="RTP1">
+    <title lang="en">O Sábio</title>
+    <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118034500 +0000" stop="20200118060000 +0000" channel="RTP1">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118060000 +0000" stop="20200118063000 +0000" channel="RTP1">
+    <title lang="en">Estrada Nacional</title>
+    <desc lang="en">Acompanhe a viagem de Joaquim Nicolau de Chaves a Faro(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118063000 +0000" stop="20200118063100 +0000" channel="RTP1">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó são dois grandes amigos que vivem aventuras muito engraçadas(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118063100 +0000" stop="20200118064500 +0000" channel="RTP1">
+    <title lang="en">Lulu Cambalhota</title>
+    <desc lang="en">Para a LuLu e os seus amigos, as melhores cambalhotas são as que fazem na Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118064500 +0000" stop="20200118070000 +0000" channel="RTP1">
+    <title lang="en">No País dos Ozie Boo!</title>
+    <desc lang="en">Na escola Ozie Boo os nossos amigos pinguins aprendem como todas as crianças, mas a escola deles é a Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118070000 +0000" stop="20200118071500 +0000" channel="RTP1">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó são grandes amigos e vão viver muitas situações engraçadas!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118071500 +0000" stop="20200118073000 +0000" channel="RTP1">
+    <title lang="en">As Aventuras do Max - Atlantos</title>
+    <desc lang="en">Não percas as aventuras de Max, o leão mais corajoso do Universo!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118073000 +0000" stop="20200118074500 +0000" channel="RTP1">
+    <title lang="en">Sim, Eu Consigo</title>
+    <desc lang="en">Crianças de diversos países narram a sua vida e dizem quais são os seus sonhos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118074500 +0000" stop="20200118080000 +0000" channel="RTP1">
+    <title lang="en">Movimento Gentil - Desafio Escolas</title>
+    <desc lang="en">O Movimento Gentil vai invadir as escolas do 1º ciclo do ensino básico de todo o país espalhar gentileza e lançar um Desafio de Gentileza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118080000 +0000" stop="20200118100000 +0000" channel="RTP1">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118100000 +0000" stop="20200118110000 +0000" channel="RTP1">
+    <title lang="en">Itália Selvagem - Os Maiores Predadores</title>
+    <desc lang="en">A Mantis Religiosa - A Rainha do Rio sem Água(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118110000 +0000" stop="20200118130000 +0000" channel="RTP1">
+    <title lang="en">Aqui Portugal</title>
+    <desc lang="en">Santa Maria da Feira(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118130000 +0000" stop="20200118141500 +0000" channel="RTP1">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118141500 +0000" stop="20200118143000 +0000" channel="RTP1">
+    <title lang="en">Voz do Cidadão</title>
+    <desc lang="en">A opinião dos telespetadores conta(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118143000 +0000" stop="20200118195900 +0000" channel="RTP1">
+    <title lang="en">Aqui Portugal</title>
+    <desc lang="en">Santa Maria da Feira(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118195900 +0000" stop="20200118210000 +0000" channel="RTP1">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118210000 +0000" stop="20200118220000 +0000" channel="RTP1">
+    <title lang="en">Conta-me Como Foi</title>
+    <desc lang="en">Reencontre os Lopes a viver o turbilhão em que está Portugal nos anos 80(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118220000 +0000" stop="20200118234500 +0000" channel="RTP1">
+    <title lang="en">Jogo de Todos os Jogos</title>
+    <desc lang="en">Um concurso cheio de humor e surpresas, onde tudo, mesmo tudo pode e vai acontecer!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118234500 +0000" stop="20200119013000 +0000" channel="RTP1">
+    <title lang="en">12 Indomáveis</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119013000 +0000" stop="20200119021500 +0000" channel="RTP1">
+    <title lang="en">Babylon Berlin</title>
+    <desc lang="en">O glamour e a tensão em Berlim nos anos 20(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119021500 +0000" stop="20200119031500 +0000" channel="RTP1">
+    <title lang="en">Babylon Berlin</title>
+    <desc lang="en">O glamour e a tensão em Berlim nos anos 20(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119031500 +0000" stop="20200119051500 +0000" channel="RTP1">
+    <title lang="en">Terra</title>
+    <desc lang="en">O Homem e a transformação do planeta(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119051500 +0000" stop="20200119055900 +0000" channel="RTP1">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119055900 +0000" stop="20200119063000 +0000" channel="RTP1">
+    <title lang="en">Todas as Palavras</title>
+    <desc lang="en">Os livros e os seus autores(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119063000 +0000" stop="20200119063100 +0000" channel="RTP1">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119063100 +0000" stop="20200119064000 +0000" channel="RTP1">
+    <title lang="en">Ema e Gui</title>
+    <desc lang="en">Ema é uma miúda sonhadora que não larga um estranho par de botas mágicas que utiliza para ir ajudar o seu amigo imaginário Gui(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119064000 +0000" stop="20200119065000 +0000" channel="RTP1">
+    <title lang="en">Lulu Cambalhota</title>
+    <desc lang="en">Para a LuLu e os seus amigos, as melhores cambalhotas são as que fazem na Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119065000 +0000" stop="20200119070000 +0000" channel="RTP1">
+    <title lang="en">No País dos Ozie Boo!</title>
+    <desc lang="en">Na escola Ozie Boo os nossos amigos pinguins aprendem como todas as crianças, mas a escola deles é a Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119070000 +0000" stop="20200119071500 +0000" channel="RTP1">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó são grandes amigos e vão viver muitas situações engraçadas!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119071500 +0000" stop="20200119073000 +0000" channel="RTP1">
+    <title lang="en">As Aventuras do Max - Atlantos</title>
+    <desc lang="en">Não percas as aventuras de Max, o leão mais corajoso do Universo!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119073000 +0000" stop="20200119074500 +0000" channel="RTP1">
+    <title lang="en">Sim, Eu Consigo</title>
+    <desc lang="en">Crianças de diversos países narram a sua vida e dizem quais são os seus sonhos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119074500 +0000" stop="20200119080000 +0000" channel="RTP1">
+    <title lang="en">Radar XS</title>
+    <desc lang="en">Toda a informação do mundo graúdo trocada por miúdos!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119080000 +0000" stop="20200119103000 +0000" channel="RTP1">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119103000 +0000" stop="20200119113000 +0000" channel="RTP1">
+    <title lang="en">Eucaristia Dominical</title>
+    <desc lang="en">A Eucaristia é fonte e centro de toda a vida cristã!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119113000 +0000" stop="20200119123000 +0000" channel="RTP1">
+    <title lang="en">Missão: 100% Português</title>
+    <desc lang="en">António Raminhos enfrenta uma missão... de origem portuguesa(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119123000 +0000" stop="20200119130000 +0000" channel="RTP1">
+    <title lang="en">Estrada Nacional</title>
+    <desc lang="en">Acompanhe a viagem de Joaquim Nicolau de Chaves a Faro(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119130000 +0000" stop="20200119141500 +0000" channel="RTP1">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119141500 +0000" stop="20200119160000 +0000" channel="RTP1">
+    <title lang="en">Futsal: Liga Placard 2019/2020</title>
+    <desc lang="en">Azeméis x Sporting(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119160000 +0000" stop="20200119170000 +0000" channel="RTP1">
+    <title lang="en">Faz Faísca</title>
+    <desc lang="en">Acompanhe os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e as redes sociais(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119170000 +0000" stop="20200119195900 +0000" channel="RTP1">
+    <title lang="en">Domingo à Tarde</title>
+    <desc lang="en">Uma tarde cheia de alegria e boa disposição(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119195900 +0000" stop="20200119210000 +0000" channel="RTP1">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119210000 +0000" stop="20200119233000 +0000" channel="RTP1">
+    <title lang="en">Got Talent Portugal</title>
+    <desc lang="en">Sem limite de idade, sem limite de talento(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119233000 +0000" stop="20200120013000 +0000" channel="RTP1">
+    <title lang="en">Bons Rapazes</title>
+    <desc lang="en">Uma conspiração que atinge os mais altos círculos do poder(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120013000 +0000" stop="20200120020000 +0000" channel="RTP1">
+    <title lang="en">Amor a Quanto Obrigas</title>
+    <desc lang="en">Só o amor os pode fazer superar as adversidades da vida(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120020000 +0000" stop="20200120021500 +0000" channel="RTP1">
+    <title lang="en">Amor a Quanto Obrigas</title>
+    <desc lang="en">Só o amor os pode fazer superar as adversidades da vida(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120021500 +0000" stop="20200120023000 +0000" channel="RTP1">
+    <title lang="en">Faz Faísca</title>
+    <desc lang="en">Acompanhe os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e as redes sociais(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120023000 +0000" stop="20200120033000 +0000" channel="RTP1">
+    <title lang="en">Itália Selvagem - Os Maiores Predadores</title>
+    <desc lang="en">A Mantis Religiosa - A Rainha do Rio sem Água(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120033000 +0000" stop="20200120055900 +0000" channel="RTP1">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120055900 +0000" stop="20200120063000 +0000" channel="RTP1">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120063000 +0000" stop="20200120100000 +0000" channel="RTP1">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120100000 +0000" stop="20200120130000 +0000" channel="RTP1">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120130000 +0000" stop="20200120141500 +0000" channel="RTP1">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120141500 +0000" stop="20200120150000 +0000" channel="RTP1">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120150000 +0000" stop="20200120173000 +0000" channel="RTP1">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120173000 +0000" stop="20200120190000 +0000" channel="RTP1">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120190000 +0000" stop="20200120195900 +0000" channel="RTP1">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120195900 +0000" stop="20200120210000 +0000" channel="RTP1">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120210000 +0000" stop="20200120220000 +0000" channel="RTP1">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120220000 +0000" stop="20200120234500 +0000" channel="RTP1">
+    <title lang="en">Prós e Contras</title>
+    <desc lang="en">Um ponto de encontro da cidadania com a isenção de Fátima Campos Ferreira!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120234500 +0000" stop="20200121004500 +0000" channel="RTP1">
+    <title lang="en">Documentário a designar</title>
+    <desc lang="en">Documentário que oportunamente será divulgado(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112063000 +0000" stop="20200112063100 +0000" channel="RTP1 HD">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112063100 +0000" stop="20200112063700 +0000" channel="RTP1 HD">
+    <title lang="en">Ema e Gui</title>
+    <desc lang="en">Ema é uma miúda sonhadora que não larga um estranho par de botas mágicas que utiliza para ir ajudar o seu amigo imaginário Gui(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112063700 +0000" stop="20200112065000 +0000" channel="RTP1 HD">
+    <title lang="en">Lulu Cambalhota</title>
+    <desc lang="en">Para a LuLu e os seus amigos, as melhores cambalhotas são as que fazem na Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112065000 +0000" stop="20200112065700 +0000" channel="RTP1 HD">
+    <title lang="en">No País dos Ozie Boo!</title>
+    <desc lang="en">Na escola Ozie Boo os nossos amigos pinguins aprendem como todas as crianças, mas a escola deles é a Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112065700 +0000" stop="20200112071200 +0000" channel="RTP1 HD">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó são grandes amigos e vão viver muitas situações engraçadas!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112071200 +0000" stop="20200112072500 +0000" channel="RTP1 HD">
+    <title lang="en">As Aventuras do Max - Atlantos</title>
+    <desc lang="en">Não percas as aventuras de Max, o leão mais corajoso do Universo!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112072500 +0000" stop="20200112074000 +0000" channel="RTP1 HD">
+    <title lang="en">Sim, Eu Consigo</title>
+    <desc lang="en">Crianças de diversos países narram a sua vida e dizem quais são os seus sonhos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112074000 +0000" stop="20200112080000 +0000" channel="RTP1 HD">
+    <title lang="en">Radar XS</title>
+    <desc lang="en">Toda a informação do mundo graúdo trocada por miúdos!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112080000 +0000" stop="20200112195900 +0000" channel="RTP1 HD">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112195900 +0000" stop="20200112210900 +0000" channel="RTP1 HD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112210900 +0000" stop="20200113003000 +0000" channel="RTP1 HD">
+    <title lang="en">The Voice Portugal</title>
+    <desc lang="en">Final(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113003000 +0000" stop="20200113022700 +0000" channel="RTP1 HD">
+    <title lang="en">Reviver o Passado em Montauk</title>
+    <desc lang="en">Poderão Max e Rebecca retomar o passado?(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113022700 +0000" stop="20200113035800 +0000" channel="RTP1 HD">
+    <title lang="en">Faz Faísca</title>
+    <desc lang="en">Acompanhe os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e as redes sociais(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113035800 +0000" stop="20200113061400 +0000" channel="RTP1 HD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113061400 +0000" stop="20200113063000 +0000" channel="RTP1 HD">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113063000 +0000" stop="20200113100000 +0000" channel="RTP1 HD">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113100000 +0000" stop="20200113130000 +0000" channel="RTP1 HD">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113130000 +0000" stop="20200113141000 +0000" channel="RTP1 HD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113141000 +0000" stop="20200113150200 +0000" channel="RTP1 HD">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113150200 +0000" stop="20200113173000 +0000" channel="RTP1 HD">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113173000 +0000" stop="20200113190800 +0000" channel="RTP1 HD">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113190800 +0000" stop="20200113195900 +0000" channel="RTP1 HD">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113195900 +0000" stop="20200113210000 +0000" channel="RTP1 HD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113210000 +0000" stop="20200113215700 +0000" channel="RTP1 HD">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113215700 +0000" stop="20200113235100 +0000" channel="RTP1 HD">
+    <title lang="en">Prós e Contras</title>
+    <desc lang="en">Tempos Incertos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113235100 +0000" stop="20200114015700 +0000" channel="RTP1 HD">
+    <title lang="en">Terra</title>
+    <desc lang="en">O Homem e a transformação do planeta(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114015700 +0000" stop="20200114024700 +0000" channel="RTP1 HD">
+    <title lang="en">19-2</title>
+    <desc lang="en">Emocionante drama policial canadiano centrado na vida de dois polícias, parceiros involuntários no Departamento de Polícia de Montreal(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114024700 +0000" stop="20200114033000 +0000" channel="RTP1 HD">
+    <title lang="en">19-2</title>
+    <desc lang="en">Emocionante drama policial canadiano centrado na vida de dois polícias, parceiros involuntários no Departamento de Polícia de Montreal(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114033000 +0000" stop="20200114041100 +0000" channel="RTP1 HD">
+    <title lang="en">O Sábio</title>
+    <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114041100 +0000" stop="20200114055900 +0000" channel="RTP1 HD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114055900 +0000" stop="20200114063000 +0000" channel="RTP1 HD">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114063000 +0000" stop="20200114100000 +0000" channel="RTP1 HD">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114100000 +0000" stop="20200114130000 +0000" channel="RTP1 HD">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114130000 +0000" stop="20200114141000 +0000" channel="RTP1 HD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114141000 +0000" stop="20200114150200 +0000" channel="RTP1 HD">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114150200 +0000" stop="20200114173000 +0000" channel="RTP1 HD">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114173000 +0000" stop="20200114175700 +0000" channel="RTP1 HD">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114175700 +0000" stop="20200114195900 +0000" channel="RTP1 HD">
+    <title lang="en">Futebol: Taça de Portugal FC Porto x Varzim SC</title>
+    <desc lang="en">A Prova Rainha na sua RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114195900 +0000" stop="20200114211200 +0000" channel="RTP1 HD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114211200 +0000" stop="20200114232200 +0000" channel="RTP1 HD">
+    <title lang="en">Futebol: Taça de Portugal Benfica x Rio Ave</title>
+    <desc lang="en">A Prova Rainha na sua RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114232200 +0000" stop="20200115000600 +0000" channel="RTP1 HD">
+    <title lang="en">José Cid em Las Vegas - Um Grammy Português</title>
+    <desc lang="en">O cantor foi agraciado pelo seu contributo para a música latina(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115000600 +0000" stop="20200115013000 +0000" channel="RTP1 HD">
+    <title lang="en">Prova Oral</title>
+    <desc lang="en">Da Rádio para a Televisão!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115013000 +0000" stop="20200115033000 +0000" channel="RTP1 HD">
+    <title lang="en">Beleza Americana</title>
+    <desc lang="en">O que se vê nem sempre corresponde à realidade(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115033000 +0000" stop="20200115034700 +0000" channel="RTP1 HD">
+    <title lang="en">Europa Minha</title>
+    <desc lang="en">Pequeno formato que visa formar os cidadãos sobre os grandes desafios da se colocam à União Europeia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115034700 +0000" stop="20200115042800 +0000" channel="RTP1 HD">
+    <title lang="en">O Sábio</title>
+    <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115042800 +0000" stop="20200115055900 +0000" channel="RTP1 HD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115055900 +0000" stop="20200115063000 +0000" channel="RTP1 HD">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115063000 +0000" stop="20200115100000 +0000" channel="RTP1 HD">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115100000 +0000" stop="20200115130000 +0000" channel="RTP1 HD">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115130000 +0000" stop="20200115141500 +0000" channel="RTP1 HD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115141500 +0000" stop="20200115150000 +0000" channel="RTP1 HD">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115150000 +0000" stop="20200115173000 +0000" channel="RTP1 HD">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115173000 +0000" stop="20200115190000 +0000" channel="RTP1 HD">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115190000 +0000" stop="20200115195900 +0000" channel="RTP1 HD">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115195900 +0000" stop="20200115210000 +0000" channel="RTP1 HD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115210000 +0000" stop="20200115213000 +0000" channel="RTP1 HD">
+    <title lang="en">Mesa Portuguesa... com Estrelas Com Certeza!</title>
+    <desc lang="en">Vista - João Oliveira - Portimão(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115213000 +0000" stop="20200115223000 +0000" channel="RTP1 HD">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115223000 +0000" stop="20200116000000 +0000" channel="RTP1 HD">
+    <title lang="en">Cá Por Casa com Herman José</title>
+    <desc lang="en">Talk Show com autoria e apresentação de Herman José(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116000000 +0000" stop="20200116004500 +0000" channel="RTP1 HD">
+    <title lang="en">Desliga a Televisão</title>
+    <desc lang="en">Faça zapping ao humor(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116004500 +0000" stop="20200116013000 +0000" channel="RTP1 HD">
+    <title lang="en">Anatomia de Grey</title>
+    <desc lang="en">O drama médico mais famoso da televisão que centra a sua história nas vidas profissionais e pessoais de um grupo de médicos-cirurgiões(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116013000 +0000" stop="20200116023000 +0000" channel="RTP1 HD">
+    <title lang="en">Janela Indiscreta</title>
+    <desc lang="en">Janela Indiscreta com Mário Augusto!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116023000 +0000" stop="20200116033000 +0000" channel="RTP1 HD">
+    <title lang="en">Grande Entrevista</title>
+    <desc lang="en">Um protagonista da vida portuguesa responde às perguntas de Vítor Gonçalves(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116033000 +0000" stop="20200116041500 +0000" channel="RTP1 HD">
+    <title lang="en">O Sábio</title>
+    <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116041500 +0000" stop="20200116055900 +0000" channel="RTP1 HD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116055900 +0000" stop="20200116063000 +0000" channel="RTP1 HD">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116063000 +0000" stop="20200116100000 +0000" channel="RTP1 HD">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116100000 +0000" stop="20200116130000 +0000" channel="RTP1 HD">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116130000 +0000" stop="20200116141500 +0000" channel="RTP1 HD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116141500 +0000" stop="20200116150000 +0000" channel="RTP1 HD">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116150000 +0000" stop="20200116173000 +0000" channel="RTP1 HD">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116173000 +0000" stop="20200116184500 +0000" channel="RTP1 HD">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116184500 +0000" stop="20200116190000 +0000" channel="RTP1 HD">
+    <title lang="en">Fatura da Sorte</title>
+    <desc lang="en">O concurso que premeia os portugueses que pedem faturas com número de contribuinte(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116190000 +0000" stop="20200116195900 +0000" channel="RTP1 HD">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116195900 +0000" stop="20200116210000 +0000" channel="RTP1 HD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116210000 +0000" stop="20200116213000 +0000" channel="RTP1 HD">
+    <title lang="en">Linha da Frente</title>
+    <desc lang="en">A grande reportagem que retrata todas as realidades!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116213000 +0000" stop="20200116223000 +0000" channel="RTP1 HD">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116223000 +0000" stop="20200117003000 +0000" channel="RTP1 HD">
+    <title lang="en">5 Para a Meia-Noite</title>
+    <desc lang="en">Filomena Cautela recebe os convidados que marcam a semana(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117003000 +0000" stop="20200117011500 +0000" channel="RTP1 HD">
+    <title lang="en">Corvo Arrivista - Um Corvo de Natal</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117011500 +0000" stop="20200117020000 +0000" channel="RTP1 HD">
+    <title lang="en">O Corvo Arrivista</title>
+    <desc lang="en">Comédia que acompanha a vida de William Shakespeare antes da fama(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117020000 +0000" stop="20200117024500 +0000" channel="RTP1 HD">
+    <title lang="en">Faz Faísca</title>
+    <desc lang="en">Acompanhe os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e as redes sociais(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117024500 +0000" stop="20200117033000 +0000" channel="RTP1 HD">
+    <title lang="en">O Sábio</title>
+    <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117033000 +0000" stop="20200117060000 +0000" channel="RTP1 HD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117060000 +0000" stop="20200117063000 +0000" channel="RTP1 HD">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117063000 +0000" stop="20200117100000 +0000" channel="RTP1 HD">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117100000 +0000" stop="20200117130000 +0000" channel="RTP1 HD">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117130000 +0000" stop="20200117141500 +0000" channel="RTP1 HD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117141500 +0000" stop="20200117150000 +0000" channel="RTP1 HD">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117150000 +0000" stop="20200117173000 +0000" channel="RTP1 HD">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117173000 +0000" stop="20200117190000 +0000" channel="RTP1 HD">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117190000 +0000" stop="20200117195900 +0000" channel="RTP1 HD">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117195900 +0000" stop="20200117210000 +0000" channel="RTP1 HD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117210000 +0000" stop="20200117213000 +0000" channel="RTP1 HD">
+    <title lang="en">Sexta às 9</title>
+    <desc lang="en">Jornalismo de investigação com a devida isenção!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117213000 +0000" stop="20200117223000 +0000" channel="RTP1 HD">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117223000 +0000" stop="20200117233000 +0000" channel="RTP1 HD">
+    <title lang="en">Auga Seca</title>
+    <desc lang="en">Nada é o que parece(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117233000 +0000" stop="20200118010000 +0000" channel="RTP1 HD">
+    <title lang="en">Depois, Vai-se a Ver e Nada</title>
+    <desc lang="en">Qualquer assunto que incendeie o mundo hoje, amanhã, vai-se a ver e nada!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118010000 +0000" stop="20200118030000 +0000" channel="RTP1 HD">
+    <title lang="en">A Senhora da Furgoneta</title>
+    <desc lang="en">Há pessoas que nos marcam(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118030000 +0000" stop="20200118034500 +0000" channel="RTP1 HD">
+    <title lang="en">O Sábio</title>
+    <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118034500 +0000" stop="20200118060000 +0000" channel="RTP1 HD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118060000 +0000" stop="20200118063000 +0000" channel="RTP1 HD">
+    <title lang="en">Estrada Nacional</title>
+    <desc lang="en">Acompanhe a viagem de Joaquim Nicolau de Chaves a Faro(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118063000 +0000" stop="20200118063100 +0000" channel="RTP1 HD">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó são dois grandes amigos que vivem aventuras muito engraçadas(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118063100 +0000" stop="20200118064500 +0000" channel="RTP1 HD">
+    <title lang="en">Lulu Cambalhota</title>
+    <desc lang="en">Para a LuLu e os seus amigos, as melhores cambalhotas são as que fazem na Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118064500 +0000" stop="20200118070000 +0000" channel="RTP1 HD">
+    <title lang="en">No País dos Ozie Boo!</title>
+    <desc lang="en">Na escola Ozie Boo os nossos amigos pinguins aprendem como todas as crianças, mas a escola deles é a Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118070000 +0000" stop="20200118071500 +0000" channel="RTP1 HD">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó são grandes amigos e vão viver muitas situações engraçadas!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118071500 +0000" stop="20200118073000 +0000" channel="RTP1 HD">
+    <title lang="en">As Aventuras do Max - Atlantos</title>
+    <desc lang="en">Não percas as aventuras de Max, o leão mais corajoso do Universo!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118073000 +0000" stop="20200118074500 +0000" channel="RTP1 HD">
+    <title lang="en">Sim, Eu Consigo</title>
+    <desc lang="en">Crianças de diversos países narram a sua vida e dizem quais são os seus sonhos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118074500 +0000" stop="20200118080000 +0000" channel="RTP1 HD">
+    <title lang="en">Movimento Gentil - Desafio Escolas</title>
+    <desc lang="en">O Movimento Gentil vai invadir as escolas do 1º ciclo do ensino básico de todo o país espalhar gentileza e lançar um Desafio de Gentileza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118080000 +0000" stop="20200118100000 +0000" channel="RTP1 HD">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118100000 +0000" stop="20200118110000 +0000" channel="RTP1 HD">
+    <title lang="en">Itália Selvagem - Os Maiores Predadores</title>
+    <desc lang="en">A Mantis Religiosa - A Rainha do Rio sem Água(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118110000 +0000" stop="20200118130000 +0000" channel="RTP1 HD">
+    <title lang="en">Aqui Portugal</title>
+    <desc lang="en">Santa Maria da Feira(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118130000 +0000" stop="20200118141500 +0000" channel="RTP1 HD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118141500 +0000" stop="20200118143000 +0000" channel="RTP1 HD">
+    <title lang="en">Voz do Cidadão</title>
+    <desc lang="en">A opinião dos telespetadores conta(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118143000 +0000" stop="20200118195900 +0000" channel="RTP1 HD">
+    <title lang="en">Aqui Portugal</title>
+    <desc lang="en">Santa Maria da Feira(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118195900 +0000" stop="20200118210000 +0000" channel="RTP1 HD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118210000 +0000" stop="20200118220000 +0000" channel="RTP1 HD">
+    <title lang="en">Conta-me Como Foi</title>
+    <desc lang="en">Reencontre os Lopes a viver o turbilhão em que está Portugal nos anos 80(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118220000 +0000" stop="20200118234500 +0000" channel="RTP1 HD">
+    <title lang="en">Jogo de Todos os Jogos</title>
+    <desc lang="en">Um concurso cheio de humor e surpresas, onde tudo, mesmo tudo pode e vai acontecer!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118234500 +0000" stop="20200119013000 +0000" channel="RTP1 HD">
+    <title lang="en">12 Indomáveis</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119013000 +0000" stop="20200119021500 +0000" channel="RTP1 HD">
+    <title lang="en">Babylon Berlin</title>
+    <desc lang="en">O glamour e a tensão em Berlim nos anos 20(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119021500 +0000" stop="20200119031500 +0000" channel="RTP1 HD">
+    <title lang="en">Babylon Berlin</title>
+    <desc lang="en">O glamour e a tensão em Berlim nos anos 20(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119031500 +0000" stop="20200119051500 +0000" channel="RTP1 HD">
+    <title lang="en">Terra</title>
+    <desc lang="en">O Homem e a transformação do planeta(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119051500 +0000" stop="20200119055900 +0000" channel="RTP1 HD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119055900 +0000" stop="20200119063000 +0000" channel="RTP1 HD">
+    <title lang="en">Todas as Palavras</title>
+    <desc lang="en">Os livros e os seus autores(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119063000 +0000" stop="20200119063100 +0000" channel="RTP1 HD">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119063100 +0000" stop="20200119064000 +0000" channel="RTP1 HD">
+    <title lang="en">Ema e Gui</title>
+    <desc lang="en">Ema é uma miúda sonhadora que não larga um estranho par de botas mágicas que utiliza para ir ajudar o seu amigo imaginário Gui(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119064000 +0000" stop="20200119065000 +0000" channel="RTP1 HD">
+    <title lang="en">Lulu Cambalhota</title>
+    <desc lang="en">Para a LuLu e os seus amigos, as melhores cambalhotas são as que fazem na Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119065000 +0000" stop="20200119070000 +0000" channel="RTP1 HD">
+    <title lang="en">No País dos Ozie Boo!</title>
+    <desc lang="en">Na escola Ozie Boo os nossos amigos pinguins aprendem como todas as crianças, mas a escola deles é a Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119070000 +0000" stop="20200119071500 +0000" channel="RTP1 HD">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó são grandes amigos e vão viver muitas situações engraçadas!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119071500 +0000" stop="20200119073000 +0000" channel="RTP1 HD">
+    <title lang="en">As Aventuras do Max - Atlantos</title>
+    <desc lang="en">Não percas as aventuras de Max, o leão mais corajoso do Universo!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119073000 +0000" stop="20200119074500 +0000" channel="RTP1 HD">
+    <title lang="en">Sim, Eu Consigo</title>
+    <desc lang="en">Crianças de diversos países narram a sua vida e dizem quais são os seus sonhos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119074500 +0000" stop="20200119080000 +0000" channel="RTP1 HD">
+    <title lang="en">Radar XS</title>
+    <desc lang="en">Toda a informação do mundo graúdo trocada por miúdos!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119080000 +0000" stop="20200119103000 +0000" channel="RTP1 HD">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119103000 +0000" stop="20200119113000 +0000" channel="RTP1 HD">
+    <title lang="en">Eucaristia Dominical</title>
+    <desc lang="en">A Eucaristia é fonte e centro de toda a vida cristã!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119113000 +0000" stop="20200119123000 +0000" channel="RTP1 HD">
+    <title lang="en">Missão: 100% Português</title>
+    <desc lang="en">António Raminhos enfrenta uma missão... de origem portuguesa(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119123000 +0000" stop="20200119130000 +0000" channel="RTP1 HD">
+    <title lang="en">Estrada Nacional</title>
+    <desc lang="en">Acompanhe a viagem de Joaquim Nicolau de Chaves a Faro(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119130000 +0000" stop="20200119141500 +0000" channel="RTP1 HD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119141500 +0000" stop="20200119160000 +0000" channel="RTP1 HD">
+    <title lang="en">Futsal: Liga Placard 2019/2020</title>
+    <desc lang="en">Azeméis x Sporting(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119160000 +0000" stop="20200119170000 +0000" channel="RTP1 HD">
+    <title lang="en">Faz Faísca</title>
+    <desc lang="en">Acompanhe os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e as redes sociais(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119170000 +0000" stop="20200119195900 +0000" channel="RTP1 HD">
+    <title lang="en">Domingo à Tarde</title>
+    <desc lang="en">Uma tarde cheia de alegria e boa disposição(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119195900 +0000" stop="20200119210000 +0000" channel="RTP1 HD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119210000 +0000" stop="20200119233000 +0000" channel="RTP1 HD">
+    <title lang="en">Got Talent Portugal</title>
+    <desc lang="en">Sem limite de idade, sem limite de talento(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119233000 +0000" stop="20200120013000 +0000" channel="RTP1 HD">
+    <title lang="en">Bons Rapazes</title>
+    <desc lang="en">Uma conspiração que atinge os mais altos círculos do poder(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120013000 +0000" stop="20200120020000 +0000" channel="RTP1 HD">
+    <title lang="en">Amor a Quanto Obrigas</title>
+    <desc lang="en">Só o amor os pode fazer superar as adversidades da vida(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120020000 +0000" stop="20200120021500 +0000" channel="RTP1 HD">
+    <title lang="en">Amor a Quanto Obrigas</title>
+    <desc lang="en">Só o amor os pode fazer superar as adversidades da vida(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120021500 +0000" stop="20200120023000 +0000" channel="RTP1 HD">
+    <title lang="en">Faz Faísca</title>
+    <desc lang="en">Acompanhe os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e as redes sociais(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120023000 +0000" stop="20200120033000 +0000" channel="RTP1 HD">
+    <title lang="en">Itália Selvagem - Os Maiores Predadores</title>
+    <desc lang="en">A Mantis Religiosa - A Rainha do Rio sem Água(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120033000 +0000" stop="20200120055900 +0000" channel="RTP1 HD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120055900 +0000" stop="20200120063000 +0000" channel="RTP1 HD">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120063000 +0000" stop="20200120100000 +0000" channel="RTP1 HD">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120100000 +0000" stop="20200120130000 +0000" channel="RTP1 HD">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120130000 +0000" stop="20200120141500 +0000" channel="RTP1 HD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120141500 +0000" stop="20200120150000 +0000" channel="RTP1 HD">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120150000 +0000" stop="20200120173000 +0000" channel="RTP1 HD">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120173000 +0000" stop="20200120190000 +0000" channel="RTP1 HD">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120190000 +0000" stop="20200120195900 +0000" channel="RTP1 HD">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120195900 +0000" stop="20200120210000 +0000" channel="RTP1 HD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120210000 +0000" stop="20200120220000 +0000" channel="RTP1 HD">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120220000 +0000" stop="20200120234500 +0000" channel="RTP1 HD">
+    <title lang="en">Prós e Contras</title>
+    <desc lang="en">Um ponto de encontro da cidadania com a isenção de Fátima Campos Ferreira!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120234500 +0000" stop="20200121004500 +0000" channel="RTP1 HD">
+    <title lang="en">Documentário a designar</title>
+    <desc lang="en">Documentário que oportunamente será divulgado(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112063000 +0000" stop="20200112063100 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112063100 +0000" stop="20200112063700 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Ema e Gui</title>
+    <desc lang="en">Ema é uma miúda sonhadora que não larga um estranho par de botas mágicas que utiliza para ir ajudar o seu amigo imaginário Gui(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112063700 +0000" stop="20200112065000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Lulu Cambalhota</title>
+    <desc lang="en">Para a LuLu e os seus amigos, as melhores cambalhotas são as que fazem na Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112065000 +0000" stop="20200112065700 +0000" channel="RTP1 FULLHD">
+    <title lang="en">No País dos Ozie Boo!</title>
+    <desc lang="en">Na escola Ozie Boo os nossos amigos pinguins aprendem como todas as crianças, mas a escola deles é a Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112065700 +0000" stop="20200112071200 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó são grandes amigos e vão viver muitas situações engraçadas!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112071200 +0000" stop="20200112072500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">As Aventuras do Max - Atlantos</title>
+    <desc lang="en">Não percas as aventuras de Max, o leão mais corajoso do Universo!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112072500 +0000" stop="20200112074000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Sim, Eu Consigo</title>
+    <desc lang="en">Crianças de diversos países narram a sua vida e dizem quais são os seus sonhos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112074000 +0000" stop="20200112080000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Radar XS</title>
+    <desc lang="en">Toda a informação do mundo graúdo trocada por miúdos!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112080000 +0000" stop="20200112195900 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112195900 +0000" stop="20200112210900 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200112210900 +0000" stop="20200113003000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">The Voice Portugal</title>
+    <desc lang="en">Final(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113003000 +0000" stop="20200113022700 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Reviver o Passado em Montauk</title>
+    <desc lang="en">Poderão Max e Rebecca retomar o passado?(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113022700 +0000" stop="20200113035800 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Faz Faísca</title>
+    <desc lang="en">Acompanhe os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e as redes sociais(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113035800 +0000" stop="20200113061400 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113061400 +0000" stop="20200113063000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113063000 +0000" stop="20200113100000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113100000 +0000" stop="20200113130000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113130000 +0000" stop="20200113141000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113141000 +0000" stop="20200113150200 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113150200 +0000" stop="20200113173000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113173000 +0000" stop="20200113190800 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113190800 +0000" stop="20200113195900 +0000" channel="RTP1 FULLHD">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113195900 +0000" stop="20200113210000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113210000 +0000" stop="20200113215700 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113215700 +0000" stop="20200113235100 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Prós e Contras</title>
+    <desc lang="en">Tempos Incertos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200113235100 +0000" stop="20200114015700 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Terra</title>
+    <desc lang="en">O Homem e a transformação do planeta(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114015700 +0000" stop="20200114024700 +0000" channel="RTP1 FULLHD">
+    <title lang="en">19-2</title>
+    <desc lang="en">Emocionante drama policial canadiano centrado na vida de dois polícias, parceiros involuntários no Departamento de Polícia de Montreal(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114024700 +0000" stop="20200114033000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">19-2</title>
+    <desc lang="en">Emocionante drama policial canadiano centrado na vida de dois polícias, parceiros involuntários no Departamento de Polícia de Montreal(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114033000 +0000" stop="20200114041100 +0000" channel="RTP1 FULLHD">
+    <title lang="en">O Sábio</title>
+    <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114041100 +0000" stop="20200114055900 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114055900 +0000" stop="20200114063000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114063000 +0000" stop="20200114100000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114100000 +0000" stop="20200114130000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114130000 +0000" stop="20200114141000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114141000 +0000" stop="20200114150200 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114150200 +0000" stop="20200114173000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114173000 +0000" stop="20200114175700 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114175700 +0000" stop="20200114195900 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Futebol: Taça de Portugal FC Porto x Varzim SC</title>
+    <desc lang="en">A Prova Rainha na sua RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114195900 +0000" stop="20200114211200 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114211200 +0000" stop="20200114232200 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Futebol: Taça de Portugal Benfica x Rio Ave</title>
+    <desc lang="en">A Prova Rainha na sua RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200114232200 +0000" stop="20200115000600 +0000" channel="RTP1 FULLHD">
+    <title lang="en">José Cid em Las Vegas - Um Grammy Português</title>
+    <desc lang="en">O cantor foi agraciado pelo seu contributo para a música latina(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115000600 +0000" stop="20200115013000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Prova Oral</title>
+    <desc lang="en">Da Rádio para a Televisão!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115013000 +0000" stop="20200115033000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Beleza Americana</title>
+    <desc lang="en">O que se vê nem sempre corresponde à realidade(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115033000 +0000" stop="20200115034700 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Europa Minha</title>
+    <desc lang="en">Pequeno formato que visa formar os cidadãos sobre os grandes desafios da se colocam à União Europeia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115034700 +0000" stop="20200115042800 +0000" channel="RTP1 FULLHD">
+    <title lang="en">O Sábio</title>
+    <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115042800 +0000" stop="20200115055900 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115055900 +0000" stop="20200115063000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115063000 +0000" stop="20200115100000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115100000 +0000" stop="20200115130000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115130000 +0000" stop="20200115141500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115141500 +0000" stop="20200115150000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115150000 +0000" stop="20200115173000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115173000 +0000" stop="20200115190000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115190000 +0000" stop="20200115195900 +0000" channel="RTP1 FULLHD">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115195900 +0000" stop="20200115210000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115210000 +0000" stop="20200115213000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Mesa Portuguesa... com Estrelas Com Certeza!</title>
+    <desc lang="en">Vista - João Oliveira - Portimão(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115213000 +0000" stop="20200115223000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200115223000 +0000" stop="20200116000000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Cá Por Casa com Herman José</title>
+    <desc lang="en">Talk Show com autoria e apresentação de Herman José(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116000000 +0000" stop="20200116004500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Desliga a Televisão</title>
+    <desc lang="en">Faça zapping ao humor(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116004500 +0000" stop="20200116013000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Anatomia de Grey</title>
+    <desc lang="en">O drama médico mais famoso da televisão que centra a sua história nas vidas profissionais e pessoais de um grupo de médicos-cirurgiões(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116013000 +0000" stop="20200116023000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Janela Indiscreta</title>
+    <desc lang="en">Janela Indiscreta com Mário Augusto!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116023000 +0000" stop="20200116033000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Grande Entrevista</title>
+    <desc lang="en">Um protagonista da vida portuguesa responde às perguntas de Vítor Gonçalves(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116033000 +0000" stop="20200116041500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">O Sábio</title>
+    <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116041500 +0000" stop="20200116055900 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116055900 +0000" stop="20200116063000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116063000 +0000" stop="20200116100000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116100000 +0000" stop="20200116130000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116130000 +0000" stop="20200116141500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116141500 +0000" stop="20200116150000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116150000 +0000" stop="20200116173000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116173000 +0000" stop="20200116184500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116184500 +0000" stop="20200116190000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Fatura da Sorte</title>
+    <desc lang="en">O concurso que premeia os portugueses que pedem faturas com número de contribuinte(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116190000 +0000" stop="20200116195900 +0000" channel="RTP1 FULLHD">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116195900 +0000" stop="20200116210000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116210000 +0000" stop="20200116213000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Linha da Frente</title>
+    <desc lang="en">A grande reportagem que retrata todas as realidades!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116213000 +0000" stop="20200116223000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200116223000 +0000" stop="20200117003000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">5 Para a Meia-Noite</title>
+    <desc lang="en">Filomena Cautela recebe os convidados que marcam a semana(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117003000 +0000" stop="20200117011500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Corvo Arrivista - Um Corvo de Natal</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117011500 +0000" stop="20200117020000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">O Corvo Arrivista</title>
+    <desc lang="en">Comédia que acompanha a vida de William Shakespeare antes da fama(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117020000 +0000" stop="20200117024500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Faz Faísca</title>
+    <desc lang="en">Acompanhe os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e as redes sociais(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117024500 +0000" stop="20200117033000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">O Sábio</title>
+    <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117033000 +0000" stop="20200117060000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117060000 +0000" stop="20200117063000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117063000 +0000" stop="20200117100000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117100000 +0000" stop="20200117130000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117130000 +0000" stop="20200117141500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117141500 +0000" stop="20200117150000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117150000 +0000" stop="20200117173000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117173000 +0000" stop="20200117190000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117190000 +0000" stop="20200117195900 +0000" channel="RTP1 FULLHD">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117195900 +0000" stop="20200117210000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117210000 +0000" stop="20200117213000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Sexta às 9</title>
+    <desc lang="en">Jornalismo de investigação com a devida isenção!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117213000 +0000" stop="20200117223000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117223000 +0000" stop="20200117233000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Auga Seca</title>
+    <desc lang="en">Nada é o que parece(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200117233000 +0000" stop="20200118010000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Depois, Vai-se a Ver e Nada</title>
+    <desc lang="en">Qualquer assunto que incendeie o mundo hoje, amanhã, vai-se a ver e nada!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118010000 +0000" stop="20200118030000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">A Senhora da Furgoneta</title>
+    <desc lang="en">Há pessoas que nos marcam(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118030000 +0000" stop="20200118034500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">O Sábio</title>
+    <desc lang="en">O Sábio é uma estória passada numa cidade antiga e sábia, grande o suficiente para guardar muitos segredos que vão agora ser revelados..(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118034500 +0000" stop="20200118060000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118060000 +0000" stop="20200118063000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Estrada Nacional</title>
+    <desc lang="en">Acompanhe a viagem de Joaquim Nicolau de Chaves a Faro(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118063000 +0000" stop="20200118063100 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó são dois grandes amigos que vivem aventuras muito engraçadas(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118063100 +0000" stop="20200118064500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Lulu Cambalhota</title>
+    <desc lang="en">Para a LuLu e os seus amigos, as melhores cambalhotas são as que fazem na Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118064500 +0000" stop="20200118070000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">No País dos Ozie Boo!</title>
+    <desc lang="en">Na escola Ozie Boo os nossos amigos pinguins aprendem como todas as crianças, mas a escola deles é a Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118070000 +0000" stop="20200118071500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó são grandes amigos e vão viver muitas situações engraçadas!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118071500 +0000" stop="20200118073000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">As Aventuras do Max - Atlantos</title>
+    <desc lang="en">Não percas as aventuras de Max, o leão mais corajoso do Universo!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118073000 +0000" stop="20200118074500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Sim, Eu Consigo</title>
+    <desc lang="en">Crianças de diversos países narram a sua vida e dizem quais são os seus sonhos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118074500 +0000" stop="20200118080000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Movimento Gentil - Desafio Escolas</title>
+    <desc lang="en">O Movimento Gentil vai invadir as escolas do 1º ciclo do ensino básico de todo o país espalhar gentileza e lançar um Desafio de Gentileza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118080000 +0000" stop="20200118100000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118100000 +0000" stop="20200118110000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Itália Selvagem - Os Maiores Predadores</title>
+    <desc lang="en">A Mantis Religiosa - A Rainha do Rio sem Água(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118110000 +0000" stop="20200118130000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Aqui Portugal</title>
+    <desc lang="en">Santa Maria da Feira(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118130000 +0000" stop="20200118141500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118141500 +0000" stop="20200118143000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Voz do Cidadão</title>
+    <desc lang="en">A opinião dos telespetadores conta(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118143000 +0000" stop="20200118195900 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Aqui Portugal</title>
+    <desc lang="en">Santa Maria da Feira(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118195900 +0000" stop="20200118210000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118210000 +0000" stop="20200118220000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Conta-me Como Foi</title>
+    <desc lang="en">Reencontre os Lopes a viver o turbilhão em que está Portugal nos anos 80(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118220000 +0000" stop="20200118234500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Jogo de Todos os Jogos</title>
+    <desc lang="en">Um concurso cheio de humor e surpresas, onde tudo, mesmo tudo pode e vai acontecer!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200118234500 +0000" stop="20200119013000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">12 Indomáveis</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119013000 +0000" stop="20200119021500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Babylon Berlin</title>
+    <desc lang="en">O glamour e a tensão em Berlim nos anos 20(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119021500 +0000" stop="20200119031500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Babylon Berlin</title>
+    <desc lang="en">O glamour e a tensão em Berlim nos anos 20(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119031500 +0000" stop="20200119051500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Terra</title>
+    <desc lang="en">O Homem e a transformação do planeta(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119051500 +0000" stop="20200119055900 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119055900 +0000" stop="20200119063000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Todas as Palavras</title>
+    <desc lang="en">Os livros e os seus autores(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119063000 +0000" stop="20200119063100 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Espaço Zig Zag</title>
+    <desc lang="en">Um mundo de séries de aventura e animação para os mais pequenos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119063100 +0000" stop="20200119064000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Ema e Gui</title>
+    <desc lang="en">Ema é uma miúda sonhadora que não larga um estranho par de botas mágicas que utiliza para ir ajudar o seu amigo imaginário Gui(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119064000 +0000" stop="20200119065000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Lulu Cambalhota</title>
+    <desc lang="en">Para a LuLu e os seus amigos, as melhores cambalhotas são as que fazem na Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119065000 +0000" stop="20200119070000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">No País dos Ozie Boo!</title>
+    <desc lang="en">Na escola Ozie Boo os nossos amigos pinguins aprendem como todas as crianças, mas a escola deles é a Natureza!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119070000 +0000" stop="20200119071500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Zig Zag</title>
+    <desc lang="en">O Gabi e a Filó são grandes amigos e vão viver muitas situações engraçadas!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119071500 +0000" stop="20200119073000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">As Aventuras do Max - Atlantos</title>
+    <desc lang="en">Não percas as aventuras de Max, o leão mais corajoso do Universo!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119073000 +0000" stop="20200119074500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Sim, Eu Consigo</title>
+    <desc lang="en">Crianças de diversos países narram a sua vida e dizem quais são os seus sonhos(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119074500 +0000" stop="20200119080000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Radar XS</title>
+    <desc lang="en">Toda a informação do mundo graúdo trocada por miúdos!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119080000 +0000" stop="20200119103000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119103000 +0000" stop="20200119113000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Eucaristia Dominical</title>
+    <desc lang="en">A Eucaristia é fonte e centro de toda a vida cristã!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119113000 +0000" stop="20200119123000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Missão: 100% Português</title>
+    <desc lang="en">António Raminhos enfrenta uma missão... de origem portuguesa(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119123000 +0000" stop="20200119130000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Estrada Nacional</title>
+    <desc lang="en">Acompanhe a viagem de Joaquim Nicolau de Chaves a Faro(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119130000 +0000" stop="20200119141500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119141500 +0000" stop="20200119160000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Futsal: Liga Placard 2019/2020</title>
+    <desc lang="en">Azeméis x Sporting(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119160000 +0000" stop="20200119170000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Faz Faísca</title>
+    <desc lang="en">Acompanhe os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e as redes sociais(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119170000 +0000" stop="20200119195900 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Domingo à Tarde</title>
+    <desc lang="en">Uma tarde cheia de alegria e boa disposição(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119195900 +0000" stop="20200119210000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119210000 +0000" stop="20200119233000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Got Talent Portugal</title>
+    <desc lang="en">Sem limite de idade, sem limite de talento(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200119233000 +0000" stop="20200120013000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bons Rapazes</title>
+    <desc lang="en">Uma conspiração que atinge os mais altos círculos do poder(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120013000 +0000" stop="20200120020000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Amor a Quanto Obrigas</title>
+    <desc lang="en">Só o amor os pode fazer superar as adversidades da vida(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120020000 +0000" stop="20200120021500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Amor a Quanto Obrigas</title>
+    <desc lang="en">Só o amor os pode fazer superar as adversidades da vida(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120021500 +0000" stop="20200120023000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Faz Faísca</title>
+    <desc lang="en">Acompanhe os protagonistas que dão que falar na música, no cinema e na televisão, não esquecendo a moda, o desporto e as redes sociais(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120023000 +0000" stop="20200120033000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Itália Selvagem - Os Maiores Predadores</title>
+    <desc lang="en">A Mantis Religiosa - A Rainha do Rio sem Água(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120033000 +0000" stop="20200120055900 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Televendas</title>
+    <desc lang="en">Um mundo de produtos, à distância de um telefone(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120055900 +0000" stop="20200120063000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referência na RTP(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120063000 +0000" stop="20200120100000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque é de manhã que começa o dia, então inicie-o na nossa companhia!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120100000 +0000" stop="20200120130000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Praça da Alegria</title>
+    <desc lang="en">Otimismo,  entusiasmo e muita energia as manhãs de Portugal!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120130000 +0000" stop="20200120141500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120141500 +0000" stop="20200120150000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Bem-vindos a Beirais</title>
+    <desc lang="en">Quando não podes voltar a falhar, o sucesso é o único caminho possível(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120150000 +0000" stop="20200120173000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde é o seu lugar(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120173000 +0000" stop="20200120190000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Saiba tudo o que de mais importante se passa no país(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120190000 +0000" stop="20200120195900 +0000" channel="RTP1 FULLHD">
+    <title lang="en">O Preço Certo</title>
+    <desc lang="en">No(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120195900 +0000" stop="20200120210000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120210000 +0000" stop="20200120220000 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Joker</title>
+    <desc lang="en">No JOKER, um único concorrente, sem adversários, usa todos os trunfos para ganhar um prémio máximo de 50.000 euros(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120220000 +0000" stop="20200120234500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Prós e Contras</title>
+    <desc lang="en">Um ponto de encontro da cidadania com a isenção de Fátima Campos Ferreira!(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20200120234500 +0000" stop="20200121004500 +0000" channel="RTP1 FULLHD">
+    <title lang="en">Documentário a designar</title>
+    <desc lang="en">Documentário que oportunamente será divulgado(n)</desc>
+    <category lang="en">News</category>
+  </programme>
+</tv>
